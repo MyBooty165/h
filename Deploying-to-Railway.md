@@ -1,4 +1,4 @@
-## How to deploy onto replit
+## How to deploy onto railway
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/90Ic--?referralCode=dYi5pZ)
 
 ### Section 1: How to setup a railway account
