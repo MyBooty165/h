@@ -1,4 +1,4 @@
-[![Deploy with Netlify](https://binbashbanana.github.io/deploy-buttons/buttons/remade/netlify.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/Animationking11/unblockedgames)
+[![Deploy with Netlify](https://binbashbanana.github.io/deploy-buttons/buttons/remade/netlify.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/OddPvP/unblockedgames)
 
 1. Click the "Deploy with Netlify" button to get started
 2. On Netlify click the "Connect to Github" button.
